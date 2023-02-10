@@ -1,0 +1,19 @@
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #cdd0d4;
+  font-size: 40px;
+}
+
+hr {
+  border-width: 3px;
+  max-width: 65px;
+  margin: 1rem auto;
+  border-color: #f05f44;
+  opacity: 1;
+}
+.layout{
+  background: url("projects/usuarios/src/assets/img/img.jpg") center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
