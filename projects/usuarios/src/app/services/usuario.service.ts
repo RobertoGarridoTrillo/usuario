@@ -12,7 +12,7 @@ export class UsuarioService {
   private loading$ = new Subject<boolean>();
 
   url = "https://gorest.co.in/public/v2/users";
-  token = 'dd5fffcebda873921f66383a4f966b10cd22e3459b8fda80b74a9bedf739e74f';
+  token = '';
 
   constructor(private http: HttpClient) {
   }
